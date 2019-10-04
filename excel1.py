@@ -1,5 +1,4 @@
 import pandas
-import numpy as np 
 
 ARCHIVO = "tabla1.csv"
 CIUDAD = "PUNO"
